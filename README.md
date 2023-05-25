@@ -63,7 +63,7 @@ Ambas plataformas, han tenido un impacto significativo en la forma en que nos re
 
 * ALBERICH-PASCUAL, Jordi. Elementos de la creatividad multimedia:
 apropiación, remediación, hibridación Publicado en Creación, Cultura digital. 18
-enero de 2018. Disponible en https://mosaic.uoc.edu/2018/01/18/elementosde-la-creatividad-multimedia-apropiacion-remediacion-hibridacion.
+enero de 2018. Disponible en https://mosaic.uoc.edu/2018/01/18/elementos-de-la-creatividad-multimedia-apropiacion-remediacion-hibridacion/.
   
 * HubSpot, Qué es Reddit: para qué sirve, cómo funciona, ventajas y ejemplos 
 [en línea] [fecha de consulta: 18 de mayo de 2023]. Disponible en: 
