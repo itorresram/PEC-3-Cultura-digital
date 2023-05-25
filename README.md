@@ -8,7 +8,7 @@ Autor: Iván Torres Ramos
 
 Fecha: 24/05/2023
 
-![Lev Manovich](https://graphic.elisava.net/wp-content/uploads/2023/01/0_lev_manovich_elisava_masters_talks_barcelona.jpg)
+![Lev Manovich-El software toma el mando](https://m.media-amazon.com/images/I/5183udNBHhL.jpg)
 
 ## Introducción 
 
@@ -43,6 +43,16 @@ También permite exportar diseños en diferentes formatos como HTML, CSS y SVG, 
 
 Resumiendo, la hibridación de medios en Figma se consigue a través de la integración de distintos elementos tradicionales del diseño gráfico, con otras características más modernas de interactividad y animación, así como la integración con otras herramientas y tecnologías. Permitiendo a los usuarios la creación de diseños más dinámicos, colaborar en tiempo real y exportar los diseños en diferentes formatos, convirtiéndola así  en una herramienta de diseño altamente versátil y eficiente.
 
+## Conclusión
+
+Reddit y Figma son dos plataformas distintas que desempeñan un papel importante en diferentes aspectos de la vida en línea.
+
+Reddit es un foro de discusión en línea que se destaca por su naturaleza comunitaria y su amplia variedad de temas. Es un lugar donde los usuarios pueden unirse a comunidades, compartir contenido, hacer preguntas, debatir y descubrir información relevante. Uno puede encontrar desde debates serios sobre temas políticos hasta comunidades dedicadas a compartir memes divertidos. Esta diversidad es, en mi opinión, uno de los mayores atractivos de Reddit, ya que fomenta la conexión y el aprendizaje entre personas con diferentes puntos de vista.
+
+Por otro lado, Figma es una herramienta de diseño colaborativo en línea que permite a los equipos trabajar juntos en proyectos de diseño. A diferencia de las herramientas de diseño tradicionales, Figma funciona en la nube, permitiendo que varios usuarios pueden editar y comentar en un diseño en tiempo real. Esto facilita la colaboración y la comunicación fluida entre los miembros del equipo, incluso si están ubicados en diferentes lugares geográficos. Figma ha cambiado la forma en que los diseñadores trabajan juntos, eliminando las barreras que limitaban la creatividad y productividad.
+
+Ambas plataformas, han tenido un impacto significativo en la forma en que nos relacionamos y creamos en línea. Reddit ha fomentado la participación y la discusión abierta. Por otro lado, Figma ha revolucionado la forma en que los equipos de diseño colaboran, mejorando la eficiencia y la calidad.
+
 
 ## Referencias y Bibliografía
 
@@ -62,4 +72,6 @@ https://blog.hubspot.es/marketing/que-es-reddit
 * Logo Reddit. https://www.lavanguardia.com/andro4all/hero/2022/01/Como-descargar-videos-de-Reddit-en-Android.jpg?width=1200&aspect_ratio=16:9
 
 * Captura Figma. https://cdn.domestika.org/c_fit,dpr_1.0,f_auto,t_base_params,w_610/v1640008532/content-items/009/935/594/Captura%2520de%2520pantalla%25202021-12-20%2520a%2520las%252014.17.14-original.png?1640008532
+
+* Portada El software toma el mando. https://m.media-amazon.com/images/I/5183udNBHhL.jpg
  
